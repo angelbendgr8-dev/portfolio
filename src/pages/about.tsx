@@ -40,9 +40,9 @@ export default function about() {
                 capable of to the technology sector are my only goals.
               </p>
               <div className=" md:py-2 py-4 px-2 ">
-                <button className="px-8 py-2 bg-transparent  border-solid border-2 border-[#a89a18] rounded-full drop-shadow-lg text-xl text-white duration-300 hover:bg-[#a89a18] hover:text-white">
+                <a href="https://docs.google.com/document/d/1t9PogkEckEhx8Vw4lgY6b981Al-r8s8iRXf1sT1oHqA/edit?usp=sharing" target='__blank' className="px-8 py-2 bg-transparent  border-solid border-2 border-[#a89a18] rounded-full drop-shadow-lg text-xl text-white duration-300 hover:bg-[#a89a18] hover:text-white">
                   Download CV
-                </button>
+                </a>
               </div>
             </div>
 
@@ -287,8 +287,8 @@ export default function about() {
                   <span className="text-slate-500 "> — Fullstack Engineer</span>
                 </h1>
                 <h1 className="text-slate-500 font-semibold text-sm md:text-lg pt-2 ml-6">
-                  Lorem ipsum dolor sit amet consectetur <br />
-                  adipisicing elit. Illum aperiam est vel!
+                 Lead Developer, mobile applications, web applications <br />
+                 API Developments.
                 </h1>
               </div>
             </div>
@@ -310,8 +310,8 @@ export default function about() {
                   <span className="text-slate-500 ">  — Fullstack Engineer</span>
                 </h1>
                 <h1 className="text-slate-500 font-semibold text-sm md:text-lg pt-2 ml-6">
-                  Lorem ipsum dolor sit amet consectetur <br />
-                  adipisicing elit. Illum aperiam est vel!
+                 As a Fullstack Developer taking part <br />
+                 in all phase of the development process
                 </h1>
               </div>
             </div>
@@ -334,14 +334,11 @@ export default function about() {
                   <span className="text-slate-500 "> - Chief Technology Officer </span>
                 </h1>
                 <h1 className="text-slate-500 font-semibold text-sm md:text-lg pt-2 ml-6">
-                  Lorem ipsum dolor sit amet consectetur <br />
-                  adipisicing elit. Illum aperiam est vel!
+                  Developed a web and mobile application <br />
+                 for doctor patient management for hyperthention
                 </h1>
               </div>
             </div>
-
-
-
 
             <div className="ml-0 flex ">
               <div className=" flex flex-col  ">
@@ -362,8 +359,8 @@ export default function about() {
                   <span className="text-slate-500 "> – IT Consultant</span>
                 </h1>
                 <h1 className="text-slate-500 font-semibold text-sm md:text-lg pt-2 ml-6">
-                  Lorem ipsum dolor sit amet consectetur <br />
-                  adipisicing elit. Illum aperiam est vel!
+                Worked as an IT expert in state governor’s  <br />
+                office in a team centered environment.
                 </h1>
               </div>
             </div>
@@ -385,34 +382,12 @@ export default function about() {
                   <span className="text-slate-500 "> - FREELANCE</span>
                 </h1>
                 <h1 className="text-slate-500 font-semibold text-sm md:text-lg pt-2 ml-6">
-                  Lorem ipsum dolor sit amet consectetur <br />
-                  adipisicing elit. Illum aperiam est vel!
+                Worked on web and mobile project for various clients,  <br />
+                in multiple languages, php(Laravel), TypeScript(ExpressJs),React-Native
                 </h1>
               </div>
             </div>
-            <div className="ml-0 flex mt-10 pb-24 md:pb-0 ">
-              <div className=" flex flex-col  ">
-                <div className="h-[50px] w-[50px] flex items-center justify-center rounded-full bg-[#a89a18]">
-                  <RiTimerFill color="white" size={30} />
-                </div>
-
-              </div>
-              <div className=" flex flex-col ">
-                <div className=" ml-6  h-[25px] w-[120px] bg-[#25292c] rounded-full">
-                  <p className="text-slate-500 text-sm font-normal ml-2.5 mt-0.5 ">
-                    2013 - PRESENT
-                  </p>
-                </div>
-                <h1 className="text-white font-semibold text-lg pt-4 ml-6">
-                  WEB DEVELOPER{" "}
-                  <span className="text-slate-500 "> - FREELANCE</span>
-                </h1>
-                <h1 className="text-slate-500 font-semibold text-sm md:text-lg pt-2 ml-6">
-                  Lorem ipsum dolor sit amet consectetur <br />
-                  adipisicing elit. Illum aperiam est vel!
-                </h1>
-              </div>
-            </div>
+            
 
           </div>
         </div>

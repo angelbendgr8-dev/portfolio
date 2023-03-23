@@ -49,13 +49,15 @@ export default function MobSidebar() {
         </a>
       </div>
       <div className="h-[60px] w-[60px] bg-[#25292c] hover:bg-[#a89a18] rounded-full flex items-center justify-center ">
-        <a href="{{route('contact')}}">
+       
+        <Link href="/contact">
           <Image
             alt='contacticon'
             className="h-[30px] w-[30px] ml "
           src={Contact}
           />
-        </a>
+          </Link>
+       
       </div>
 
       </nav>

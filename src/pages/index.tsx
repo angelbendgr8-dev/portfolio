@@ -59,10 +59,10 @@ export default function Home() {
                   Developer.
               </h1>
               <div className=" md:mb-0 mb-4">
-                <button
+                <a href='https://docs.google.com/document/d/1t9PogkEckEhx8Vw4lgY6b981Al-r8s8iRXf1sT1oHqA/edit?usp=sharing' target='__blank'
                   className="px-8 py-2 bg-transparent border border-solid border-2 border-[#a89a18] rounded-full drop-shadow-lg text-xl text-white duration-300 hover:bg-[#a89a18] hover:text-white ">
                   Download CV
-                </button>
+                </a>
               </div>
 
             </div>
